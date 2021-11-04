@@ -1,5 +1,6 @@
-ORIGINAL DATA FROM: https://github.com/MoH-Malaysia/covid19-public/blob/main/vaccination/vax_school.csv
-USE CTRL + F to find your school
+// ORIGINAL DATA FROM: https://github.com/MoH-Malaysia/covid19-public/blob/main/vaccination/vax_school.csv
+// USE CTRL + F TO FIND YOUR SCHOOL
+
 
 SK TOH TANDEWA SAKTI
 SK PENDITA ZA'BA
